@@ -1,0 +1,36 @@
+﻿'MPI_LAB.exe' (Win32): Loaded 'C:\Users\user\source\repos\MPI_LAB\Debug\MPI_LAB.exe'. Symbols loaded.
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msmpi.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ws2_32.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\mswsock.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdsapi.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\authz.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbase.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dsparse.dll'. 
+The thread 0x496c has exited with code 0 (0x0).
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\NapiNSP.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\pnrpnsp.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\wshbth.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nlaapi.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\IPHLPAPI.DLL'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\dnsapi.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\nsi.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\winrnr.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\FWPUCLNT.DLL'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcrypt.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rasadhlp.dll'. 
+'MPI_LAB.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+The thread 0x33f8 has exited with code 0 (0x0).
+The thread 0x27f4 has exited with code 0 (0x0).
+The thread 0xca4 has exited with code 0 (0x0).
+The program '[12528] MPI_LAB.exe' has exited with code 0 (0x0).
