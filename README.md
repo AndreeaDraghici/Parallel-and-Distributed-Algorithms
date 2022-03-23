@@ -2,6 +2,8 @@
 
 This repository contains solutions to tasks related to the parallel and distributed algorithm laboratory.
 
+Materials / Tutorial:
+-----
 
 MPI 1 https://docs.microsoft.com/en-us/message-passing-interface/mpi-point-to-point-functions
 
