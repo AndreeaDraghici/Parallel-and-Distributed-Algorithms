@@ -25,4 +25,4 @@ MPI 4  https://www.codingame.com/playgrounds/47058/have-fun-with-mpi-in-c/mpi-co
    
    ------------------------------------
 
----
+
